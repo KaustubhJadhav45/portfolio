@@ -337,6 +337,17 @@ nav a:hover {
 
 }
 
+.code-card {
+    position: relative;
+    overflow: hidden;
+    background:
+        linear-gradient(
+            rgba(11, 13, 18, 0.50),
+            rgba(11, 13, 18, 0.50)
+        ),
+        url("kaustubh.jpeg") center center / cover no-repeat;
+}
+
 
 .window-header {
 
